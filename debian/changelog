@@ -1,0 +1,8 @@
+ros-humble-event-camera-renderer (1.1.1-1jammy) jammy; urgency=high
+
+  * Initial release
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 19 Sep 2023 04:00:00 -0000
+
+
