@@ -1,0 +1,8 @@
+ros-iron-event-camera-renderer (1.2.2-1bullseye) bullseye; urgency=high
+
+  * initial release
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 09 Nov 2023 05:00:00 -0000
+
+
