@@ -1,0 +1,17 @@
+ros-iron-event-camera-renderer (1.2.3-1jammy) jammy; urgency=high
+
+  * permit variable sensor size
+  * change formatting of python files to make flake8 linter happy
+  * ignore pyc files
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sun, 04 Feb 2024 05:00:00 -0000
+
+ros-iron-event-camera-renderer (1.2.2-1jammy) jammy; urgency=high
+
+  * initial release
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 09 Nov 2023 05:00:00 -0000
+
+
