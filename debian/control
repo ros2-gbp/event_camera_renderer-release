@@ -1,0 +1,12 @@
+Source: ros-rolling-event-camera-renderer
+Section: misc
+Priority: optional
+Maintainer: Bernd Pfrommer <bernd.pfrommer@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ament-cmake, ament-cmake-clang-format <!nocheck>, ament-cmake-copyright <!nocheck>, ament-cmake-cppcheck <!nocheck>, ament-cmake-cpplint <!nocheck>, ament-cmake-flake8 <!nocheck>, ament-cmake-lint-cmake <!nocheck>, ament-cmake-pep257 <!nocheck>, ament-cmake-ros, ament-cmake-uncrustify <!nocheck>, ament-cmake-xmllint <!nocheck>, ament-lint <!nocheck>, image-transport-tools, libimage-transport-dev, libsensor-msgs-dev, python3-sensor-msgs, ros-environment, ros-rolling-event-camera-codecs, ros-rolling-event-camera-msgs, ros-rolling-rclcpp, ros-rolling-rclcpp-components, ros-sensor-msgs, ros-rolling-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-rolling-event-camera-renderer
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, image-transport-tools, libimage-transport-dev, libsensor-msgs-dev, python3-sensor-msgs, ros-environment, ros-rolling-event-camera-codecs, ros-rolling-event-camera-msgs, ros-rolling-rclcpp, ros-rolling-rclcpp-components, ros-sensor-msgs, ros-rolling-ros-workspace
+Description: package for rendering event_camera_msgs
