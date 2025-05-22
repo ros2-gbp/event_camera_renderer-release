@@ -92,12 +92,12 @@ tracks:
       :{release_inc} --os-name fedora
     - git-bloom-generate -y rosrpm --prefix release/:{ros_distro} :{ros_distro} -i
       :{release_inc} --os-name rhel
-    devel_branch: rolling
+    devel_branch: release
     last_version: 1.0.4
     name: event_camera_renderer
     patches: null
     release_inc: '2'
-    release_repo_url: null
+    release_repo_url: git@github.com:ros2-gbp/event_camera_renderer-release.git
     release_tag: :{version}
     ros_distro: kilted
     vcs_type: git
