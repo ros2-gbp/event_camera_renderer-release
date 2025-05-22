@@ -1,3 +1,26 @@
+## event_camera_renderer (jazzy) - 2.0.0-1
+
+The packages in the `event_camera_renderer` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --edit-track event_camera_renderer` on `Thu, 22 May 2025 23:47:11 -0000`
+
+The `event_camera_renderer` package was released.
+
+Version of package(s) in repository `event_camera_renderer`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_renderer.git
+- release repository: https://github.com/ros2-gbp/event_camera_renderer-release.git
+- rosdistro version: `1.3.4-1`
+- old version: `1.3.4-1`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_renderer (humble) - 2.0.0-1
 
 The packages in the `event_camera_renderer` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --edit-track event_camera_renderer` on `Thu, 22 May 2025 23:43:19 -0000`
