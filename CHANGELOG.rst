@@ -2,6 +2,9 @@
 Changelog for package event_camera_renderer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2025-05-22)
+------------------
+
 1.0.4 (2024-05-29)
 ------------------
 * fix linter errors on noble
