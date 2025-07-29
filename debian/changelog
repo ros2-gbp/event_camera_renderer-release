@@ -1,0 +1,48 @@
+ros-kilted-event-camera-renderer (2.0.1-1noble) noble; urgency=high
+
+  * remove old ROS2 from CI
+  * remove ROS1 from CI
+  * support new transport api
+  * bumped cmake required
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 29 Jul 2025 04:00:00 -0000
+
+ros-kilted-event-camera-renderer (2.0.0-1noble) noble; urgency=high
+
+
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 22 May 2025 04:00:00 -0000
+
+ros-kilted-event-camera-renderer (1.0.4-1noble) noble; urgency=high
+
+  * fix linter errors on noble
+  * updated build instructions
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 29 May 2024 04:00:00 -0000
+
+ros-kilted-event-camera-renderer (1.0.3-1noble) noble; urgency=high
+
+  * permit variable sensor size
+  * change formatting of python files to make flake8 linter happy
+  * ignore pyc files
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Sun, 04 Feb 2024 05:00:00 -0000
+
+ros-kilted-event-camera-renderer (1.0.2-1noble) noble; urgency=high
+
+  * added dependency on ament_cmake_clang_format
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Thu, 21 Sep 2023 04:00:00 -0000
+
+ros-kilted-event-camera-renderer (1.0.1-1noble) noble; urgency=high
+
+  * Initial release
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Tue, 19 Sep 2023 04:00:00 -0000
+
+
