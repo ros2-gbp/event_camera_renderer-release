@@ -2,6 +2,12 @@
 Changelog for package event_camera_renderer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.2 (2025-09-01)
+------------------
+* updated workflow
+* support new image transport node interface
+* Contributors: Bernd Pfrommer
+
 2.0.1 (2025-07-29)
 ------------------
 * remove old ROS2 from CI
