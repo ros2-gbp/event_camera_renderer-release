@@ -1,3 +1,26 @@
+## event_camera_renderer (rolling) - 3.0.1-1
+
+The packages in the `event_camera_renderer` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --ros-distro rolling event_camera_renderer` on `Thu, 19 Nov 2026 18:35:14 -0000`
+
+The `event_camera_renderer` package was released.
+
+Version of package(s) in repository `event_camera_renderer`:
+
+- upstream repository: https://github.com/ros-event-camera/event_camera_renderer.git
+- release repository: https://github.com/ros2-gbp/event_camera_renderer-release.git
+- rosdistro version: `3.0.0-2`
+- old version: `3.0.0-2`
+- new version: `3.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## event_camera_renderer (lyrical) - 3.0.1-1
 
 The packages in the `event_camera_renderer` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --ros-distro lyrical event_camera_renderer` on `Thu, 19 Nov 2026 18:32:49 -0000`
