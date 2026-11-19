@@ -2,6 +2,12 @@
 Changelog for package event_camera_renderer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.1 (2026-11-19)
+------------------
+* added statistics logging
+* better handling of low event rates and slow display processing
+* Contributors: Bernd Pfrommer
+
 3.0.0 (2025-12-06)
 ------------------
 * updated license string in package.xml
